@@ -62,6 +62,7 @@ https://github.com/peterzernia/wanderlist  (full stack Django DRF App with froen
 
 
 Python:
+
 https://python-patterns.guide/
 
 https://12factor.net/ (12 step guide for python apps)
